@@ -1,5 +1,7 @@
 # Second seminar
 
+26.05.2024
+
 ## Creating branch
 
 git branch branch name - создание новой ветки

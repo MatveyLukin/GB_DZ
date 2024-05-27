@@ -11,3 +11,5 @@ git branch branch name - создание новой ветки
 git merge branch name - слияние двух веток
 
 ## Conflicts
+
+провокация конфликта

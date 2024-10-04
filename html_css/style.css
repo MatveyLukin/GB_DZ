@@ -1,0 +1,32 @@
+body {
+  background-color: #607d8b;
+}
+
+a {
+  color: rgb(200, 200, 191);
+  font-size: larger;
+}
+
+h2 {
+  text-shadow: 1px 1px 2px rgb(251, 250, 250), 0 0 1em rgb(247, 244, 244);
+}
+
+/* img {
+  margin-left: 25%;
+} */
+
+/* img[alt="обложка"] {
+  margin: 0;
+}
+
+img[alt="нора"] {
+  margin: 0;
+}
+
+img[alt="постер"] {
+  margin: 0;
+} */
+
+img[alt="traveller"] {
+  margin-left: 50%;
+}
